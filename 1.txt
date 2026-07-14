@@ -4,3 +4,4 @@ class Test{
 
 class models.Models():
 	employee id= models.integer();
+class employee(models.Model):
