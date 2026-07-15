@@ -1,2 +1,4 @@
  story  1
- class 123 is incomplete
+ class 123 is incomplete  
+story 2 
+ class is complete
